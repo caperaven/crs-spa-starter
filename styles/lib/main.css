@@ -9,4 +9,5 @@ crs-router {
     bottom: 0;
     right: 0;
     overflow: auto;
+    padding: 1rem;
 }
