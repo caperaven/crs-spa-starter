@@ -26,5 +26,9 @@
         "mkdirp": "^0.5.1",
         "rollup": "^1.23.0",
         "rollup-plugin-terser": "^5.1.2"
+    },
+    "dependencies": {
+        "crs-binding": "0.0.98",
+        "crs-router": "0.0.35"
     }
 }

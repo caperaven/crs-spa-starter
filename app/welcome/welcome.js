@@ -1,0 +1,8 @@
+import {ViewBase} from "./../../node_modules/crs-binding/crs-view-base.js";
+
+export default class Welcome extends ViewBase {
+    connectedCallback() {
+        this.title = "Welcome to my application";
+        super.connectedCallback();
+    }
+}
