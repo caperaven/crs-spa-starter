@@ -4,8 +4,4 @@ export default class Welcome extends ViewBase {
     async connectedCallback() {
         await super.connectedCallback();
     }
-
-    update() {
-        console.log("update");
-    }
 }
