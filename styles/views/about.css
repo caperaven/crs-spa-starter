@@ -1,1 +1,4 @@
-@import "./../lib/views.css";
+h2 {
+    text-align: center;
+    color: var(--cl-primary);
+}
